@@ -158,7 +158,54 @@ JENKINS CONFIGURATION
 After Jenkins installation on the instance, copy the instance Public IP and paste it on any web browser with port 80 to load Jenkens GUI. 
 For this deployment, we have pasted 18.133.123.226:80 on browser to get the page below
 
+![alt text](screenshot1.png)
 
+The Administrator password from the above page can be obtained by copy the directory printed in red on the page and paste it to complete a command on your CLI thus:
+Sudo cat /var/lib/Jenkins/secrets/initialAdminPassword
+Execute the command and the password will be displayed on top of the command line prompt. Copy the password and paste on the page. Then click “continue” to have the next page
+
+![alt text](screenshot2.png)
+
+Fill the above form as shown on the page below
+
+![alt text](screenshot3.png)
+
+Click “save and continue” and you will have the next page
+
+![alt text](screenshot4.png)
+
+Click “safe and finish”
+
+![alt text](screenshot5.png)
+
+Click “start using Jenkins”
+
+![alt text](screenshot6.png)
+![alt text](screenshot7.png)
+![alt text](screenshot8.png)
+![alt text](screenshot9.png)
+![alt text](screenshot10.png)
+![alt text](screenshot11.png)
+![alt text](screenshot12.png)
+![alt text](screenshot13.png)
+![alt text](screenshot14.png)
+![alt text](screenshot15.png)
+![alt text](screenshot16.png)
+![alt text](screenshot17.png)
+![alt text](screenshot18.png)
+![alt text](screenshot19.png)
+![alt text](screenshot20.png)
+![alt text](screenshot21.png)
+![alt text](screenshot22.png)
+![alt text](screenshot23.png)
+![alt text](screenshot24.png)
+![alt text](screenshot25.png)
+![alt text](screenshot26.png)
+![alt text](screenshot27.png)
+![alt text](screenshot28.png)
+![alt text](screenshot29.png)
+![alt text](screenshot30.png)
+![alt text](screenshot31.png)
 
 ## 7. Contribution
 
